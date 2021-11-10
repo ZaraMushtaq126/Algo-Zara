@@ -27,5 +27,3 @@ public class Euclid {
         System.out.println("GCD(" + p + ", " + q + ") = " + d2);
     }
 }
-
-
